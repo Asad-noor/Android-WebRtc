@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Work/Android/Projects/Android-WebRtc/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_call.xml",
+        "source": "/Work/Android/Projects/Android-WebRtc/app/src/main/res/layout/activity_call.xml"
+    },
+    {
+        "merged": "/Work/Android/Projects/Android-WebRtc/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Work/Android/Projects/Android-WebRtc/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Work/Android/Projects/Android-WebRtc/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sample_camera_render.xml",
+        "source": "/Work/Android/Projects/Android-WebRtc/app/src/main/res/layout/activity_sample_camera_render.xml"
+    },
+    {
+        "merged": "/Work/Android/Projects/Android-WebRtc/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sample_peer_connection.xml",
+        "source": "/Work/Android/Projects/Android-WebRtc/app/src/main/res/layout/activity_sample_peer_connection.xml"
+    },
+    {
+        "merged": "/Work/Android/Projects/Android-WebRtc/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sample_data_channel.xml",
+        "source": "/Work/Android/Projects/Android-WebRtc/app/src/main/res/layout/activity_sample_data_channel.xml"
+    }
+]

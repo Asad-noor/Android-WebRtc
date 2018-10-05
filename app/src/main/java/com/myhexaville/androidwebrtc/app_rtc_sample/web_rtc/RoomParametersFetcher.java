@@ -36,7 +36,7 @@ import java.util.Scanner;
  * parameters to use with that room.
  */
 public class RoomParametersFetcher {
-    private static final String TAG = "RoomRTCClient";
+    private static final String TAG = "tttt";
     private static final int TURN_HTTP_TIMEOUT_MS = 5000;
     private final RoomParametersFetcherEvents events;
     private final String roomUrl;
@@ -133,7 +133,7 @@ public class RoomParametersFetcher {
                     iceServersFromPCConfigJSON(roomJson.getString("pc_config"));
             boolean isTurnPresent = false;
             for (PeerConnection.IceServer server : iceServers) {
-                Log.d(TAG, "IceServer: " + server);
+                Log.d("tttt", "IceServer: >>>" + server);
                 if (server.uri.startsWith("turn:")) {
                     isTurnPresent = true;
                     break;
@@ -144,7 +144,7 @@ public class RoomParametersFetcher {
                 LinkedList<PeerConnection.IceServer> turnServers =
                         requestTurnServers(roomJson.getString("ice_server_url"));
                 for (PeerConnection.IceServer turnServer : turnServers) {
-                    Log.d(TAG, "TurnServer: " + turnServer);
+                    Log.d("tttt", "TurnServer: " + turnServer);
                     iceServers.add(turnServer);
                 }
             }

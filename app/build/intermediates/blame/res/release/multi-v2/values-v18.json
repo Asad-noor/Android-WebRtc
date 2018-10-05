@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Work/Android/Projects/Android-WebRtc/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/asadmac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/55816dbc760757ce4d92e45aabd7a0b8/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

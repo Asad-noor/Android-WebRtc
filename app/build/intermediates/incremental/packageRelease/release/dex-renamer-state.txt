@@ -1,0 +1,4 @@
+#Fri Sep 28 17:50:57 BDT 2018
+base.0=/Work/Android/Projects/Android-WebRtc/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
